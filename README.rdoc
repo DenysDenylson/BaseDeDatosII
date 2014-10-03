@@ -1,4 +1,11 @@
 Proyecto realizado por los estudiante de la catolica.
+
+INTEGRANTES:
+	Denys Hurtado
+	Oliver Nina
+	Jorge de Ugarte
+	Edwin Atahuichi
+
 == README
 
 This README would normally document whatever steps are necessary to get the
